@@ -1,0 +1,124 @@
+2019-08-15 18:04:46 INFO  Hooks:19 - Opening the app
+2019-08-15 18:04:48 INFO  LoginPage:48 - Entering username
+2019-08-15 18:04:48 INFO  LoginPage:50 - Entering pass
+2019-08-15 18:04:48 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 18:04:49 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 18:04:49 INFO  HomePage:84 - Clicking on order link
+2019-08-15 18:04:50 INFO  OrderPage:72 - Selecting a product
+2019-08-15 18:05:06 INFO  Hooks:30 - Closing the app
+2019-08-15 18:33:23 INFO  Hooks:19 - Opening the app
+2019-08-15 18:33:26 INFO  LoginPage:48 - Entering username
+2019-08-15 18:33:26 INFO  LoginPage:50 - Entering pass
+2019-08-15 18:33:26 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 18:33:28 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 18:33:28 INFO  HomePage:84 - Clicking on order link
+2019-08-15 18:33:29 INFO  OrderPage:72 - Selecting a product
+2019-08-15 18:33:45 INFO  Hooks:30 - Closing the app
+2019-08-15 18:37:15 INFO  Hooks:19 - Opening the app
+2019-08-15 18:37:17 INFO  LoginPage:48 - Entering username
+2019-08-15 18:37:17 INFO  LoginPage:50 - Entering pass
+2019-08-15 18:37:18 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 18:37:19 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 18:37:19 INFO  HomePage:84 - Clicking on order link
+2019-08-15 18:37:20 INFO  OrderPage:72 - Selecting a product
+2019-08-15 18:37:35 INFO  Hooks:30 - Closing the app
+2019-08-15 18:43:26 INFO  Hooks:19 - Opening the app
+2019-08-15 18:43:27 INFO  LoginPage:48 - Entering username
+2019-08-15 18:43:28 INFO  LoginPage:50 - Entering pass
+2019-08-15 18:43:28 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 18:43:29 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 18:43:29 INFO  HomePage:84 - Clicking on order link
+2019-08-15 18:43:30 INFO  OrderPage:72 - Selecting a product
+2019-08-15 18:43:31 INFO  OrderFillOut:29 - order selected
+2019-08-15 18:43:35 INFO  OrderFillOut:92 - clicking on the process button
+2019-08-15 18:43:35 INFO  OrderPage:78 - Waiting for element to be visible
+2019-08-15 18:43:35 INFO  Hooks:30 - Closing the app
+2019-08-15 18:43:38 INFO  Hooks:19 - Opening the app
+2019-08-15 18:56:25 INFO  Hooks:23 - Opening the app
+2019-08-15 18:56:26 INFO  LoginPage:48 - Entering username
+2019-08-15 18:56:27 INFO  LoginPage:50 - Entering pass
+2019-08-15 18:56:27 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 18:56:28 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 18:56:28 INFO  HomePage:84 - Clicking on order link
+2019-08-15 18:56:29 INFO  OrderPage:72 - Selecting a product
+2019-08-15 18:56:30 INFO  OrderFillOut:29 - order selected
+2019-08-15 18:56:33 INFO  OrderFillOut:92 - clicking on the process button
+2019-08-15 18:56:33 INFO  OrderPage:78 - Waiting for element to be visible
+2019-08-15 18:56:33 INFO  Hooks:34 - Closing the app
+2019-08-15 18:56:35 INFO  Hooks:23 - Opening the app
+2019-08-15 18:59:55 INFO  Hooks:24 - Opening the app
+2019-08-15 18:59:56 INFO  LoginPage:48 - Entering username
+2019-08-15 18:59:56 INFO  LoginPage:50 - Entering pass
+2019-08-15 18:59:57 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 18:59:58 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 18:59:58 INFO  HomePage:84 - Clicking on order link
+2019-08-15 18:59:58 INFO  OrderPage:72 - Selecting a product
+2019-08-15 18:59:59 INFO  OrderFillOut:29 - order selected
+2019-08-15 19:00:02 INFO  OrderFillOut:92 - clicking on the process button
+2019-08-15 19:00:03 INFO  OrderPage:78 - Waiting for element to be visible
+2019-08-15 19:00:03 INFO  Hooks:35 - Closing the app
+2019-08-15 19:00:05 INFO  Hooks:24 - Opening the app
+2019-08-15 19:06:15 INFO  Hooks:23 - Set the driver
+2019-08-15 19:06:15 INFO  Hooks:25 - Opening the app
+2019-08-15 19:06:17 INFO  LoginPage:48 - Entering username
+2019-08-15 19:06:17 INFO  LoginPage:50 - Entering pass
+2019-08-15 19:06:17 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 19:06:18 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 19:06:18 INFO  HomePage:84 - Clicking on order link
+2019-08-15 19:06:19 INFO  OrderPage:72 - Selecting a product
+2019-08-15 19:06:19 INFO  OrderFillOut:29 - order selected
+2019-08-15 19:06:22 INFO  OrderFillOut:92 - clicking on the process button
+2019-08-15 19:06:23 INFO  OrderPage:78 - Waiting for element to be visible
+2019-08-15 19:06:23 INFO  Hooks:36 - Closing the app
+2019-08-15 19:06:25 INFO  Hooks:23 - Set the driver
+2019-08-15 19:06:25 INFO  Hooks:25 - Opening the app
+2019-08-15 19:17:14 INFO  LoginPage:48 - Entering username
+2019-08-15 19:17:14 INFO  LoginPage:50 - Entering pass
+2019-08-15 19:17:14 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 19:17:15 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 19:17:16 INFO  HomePage:84 - Clicking on order link
+2019-08-15 19:17:16 INFO  OrderPage:72 - Selecting a product
+2019-08-15 19:17:17 INFO  OrderFillOut:29 - order selected
+2019-08-15 19:17:21 INFO  OrderFillOut:92 - clicking on the process button
+2019-08-15 19:17:21 INFO  OrderPage:78 - Waiting for element to be visible
+2019-08-15 19:17:21 INFO  Hooks:28 - Closing the app
+2019-08-15 19:21:27 INFO  LoginPage:48 - Entering username
+2019-08-15 19:21:27 INFO  LoginPage:50 - Entering pass
+2019-08-15 19:21:27 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 19:21:28 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 19:21:28 INFO  HomePage:84 - Clicking on order link
+2019-08-15 19:21:29 INFO  OrderPage:72 - Selecting a product
+2019-08-15 19:21:30 INFO  OrderFillOut:29 - order selected
+2019-08-15 19:21:33 INFO  OrderFillOut:92 - clicking on the process button
+2019-08-15 19:21:34 INFO  OrderPage:78 - Waiting for element to be visible
+2019-08-15 19:21:34 INFO  Hooks:28 - Closing the app
+2019-08-15 19:21:50 INFO  LoginPage:48 - Entering username
+2019-08-15 19:21:50 INFO  LoginPage:50 - Entering pass
+2019-08-15 19:21:51 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 19:21:52 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 19:21:53 INFO  HomePage:84 - Clicking on order link
+2019-08-15 19:21:53 INFO  OrderPage:72 - Selecting a product
+2019-08-15 19:21:54 INFO  OrderFillOut:29 - order selected
+2019-08-15 19:21:58 INFO  OrderFillOut:92 - clicking on the process button
+2019-08-15 19:21:59 INFO  OrderPage:78 - Waiting for element to be visible
+2019-08-15 19:21:59 INFO  Hooks:28 - Closing the app
+2019-08-15 19:26:36 INFO  LoginPage:48 - Entering username
+2019-08-15 19:26:37 INFO  LoginPage:50 - Entering pass
+2019-08-15 19:26:37 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 19:26:38 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 19:26:38 INFO  HomePage:84 - Clicking on order link
+2019-08-15 19:26:39 INFO  OrderPage:72 - Selecting a product
+2019-08-15 19:26:39 INFO  OrderFillOut:29 - order selected
+2019-08-15 19:26:43 INFO  OrderFillOut:92 - clicking on the process button
+2019-08-15 19:26:44 INFO  OrderPage:78 - Waiting for element to be visible
+2019-08-15 19:26:44 INFO  Hooks:28 - Closing the app
+2019-08-15 19:27:01 INFO  LoginPage:48 - Entering username
+2019-08-15 19:27:01 INFO  LoginPage:50 - Entering pass
+2019-08-15 19:27:02 INFO  LoginPage:52 - Clicking on login button
+2019-08-15 19:27:02 INFO  OrderPage:83 - Waiting for element to be clickable
+2019-08-15 19:27:03 INFO  HomePage:84 - Clicking on order link
+2019-08-15 19:27:03 INFO  OrderPage:72 - Selecting a product
+2019-08-15 19:27:04 INFO  OrderFillOut:29 - order selected
+2019-08-15 19:27:07 INFO  OrderFillOut:92 - clicking on the process button
+2019-08-15 19:27:07 INFO  OrderPage:78 - Waiting for element to be visible
+2019-08-15 19:27:07 INFO  Hooks:28 - Closing the app
